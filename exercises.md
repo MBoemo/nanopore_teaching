@@ -96,6 +96,7 @@ As you can see, our sequence is full of satellites. How will this have affected 
 [DOI: 10.1186/2042-5783-3-2](http://microbialinformaticsj.biomedcentral.com/articles/10.1186/2042-5783-3-2)
 - Treangen et al. "[Repetitive DNA and next-generation sequencing: computational challenges and solutions.](http://www.nature.com/nrg/journal/v13/n1/full/nrg3117.html)" Nature Reviews Genetics 13 (2012): 36-46.
 - Loman et al. "[A complete bacterial genome assembled de novo using only nanopore sequencing data.](https://www.nature.com/articles/nmeth.3444)" Nature Methods 12 (2015): 733–735.
+- Simpson et al. "[Detecting DNA cytosine methylation using nanopore sequencing.](https://www.nature.com/articles/nmeth.4184)" Nature Methods 14 (2017): 407–410.
 - [Celera (Canu) Assembler](http://wgs-assembler.sourceforge.net/wiki/index.php/Celera_Assembler_Terminology)
  [Canu Terminology](http://wgs-assembler.sourceforge.net/wiki/index.php/Celera_Assembler_Terminology) (some of it is irrelevant to nanopore reads e.g. mate-pairs)
 [Slides on genome analysis](http://schatzlab.cshl.edu/teaching/) by the Schatz lab
