@@ -15,7 +15,7 @@ The aim of this exercise is to demonstrate the advantages of long reads in the a
 
 
 ### Generate test reads
-For the purposes of this demonstration we will use simulated data. Download the reference sequence from [here](https://figshare.com/s/97580ff5981bed6e921a).  Use the command wget to download the reference file.
+For the purposes of this demonstration we will use simulated data. Download the reference sequence from [here](https://github.com/MBoemo/nanopore_teaching/blob/master/ref.fasta).  Right click on "Raw" and click "Copy link address".  Then use the command wget to download the reference file.
 
 To generate simulated reads, we'll use readsim.py.  Enter the following to see the information about how to run readsim.py.  Understand what each option does.
 
