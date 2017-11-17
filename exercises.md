@@ -72,7 +72,7 @@ Canu is based on the Celera assembler. For terminology see [here](http://wgs-ass
 Assess both of your assemblies with QUAST:
 
 ```
-quast.py assemblyFolder/contigFile -R ref.fasta
+sudo quast.py assemblyFolder/contigFile -R ref.fasta
 ```
 The contig file will be named something like "longReadsCov30.contigs.fasta" or "contigs.fa".
 
