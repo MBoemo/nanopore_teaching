@@ -59,7 +59,7 @@ For more information on how Velvet works, see [here](http://microbialinformatics
 Perform *de-novo* assembly with long reads using Canu.
 
 ```
-canu -p longReadsCov30 -d longReadsCov30_assembly genomesize=50000 -nanopore-raw longReadsCov30.fasta
+canu -p longReadsCov30 -d longReadsCov30_assembly java=/usr/jre-9.0.1/bin/java genomesize=50000 -nanopore-raw longReadsCov30.fasta
 ```
 *Note: Canu requires a file "specfile.dat" in the working directory. This file is used to pass more options to canu. For our purposes this file can be empty.*
 
